@@ -5,7 +5,7 @@ int main(){
 
 	do{
 	
-	printf("=====Menu=====");
+	printf("\n=====Menu=====");
 	printf("\n1.Nhap 3 so nguyen \n2.Tinh tong 3 so  \n3.Tinh trung binh cong 3 so  \n4.So nho nhat \n5.So lon nhat  \n6.Thoat \n\tchon cac so tu 2 - 5:  ");
 	scanf("%d",&chon);	
 	
@@ -95,4 +95,5 @@ int main(){
 
 return 0;
 }
+
 
